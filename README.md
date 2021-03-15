@@ -1,6 +1,7 @@
 # Part 1
 
 ## Question 1: When was git created?
+2005, for the development of the Linux kernel
 
 ## Question 2: What language is GitHub written in?
 
