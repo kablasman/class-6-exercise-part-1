@@ -9,3 +9,4 @@
 ## Question 4: Who acquired GitHub for $7.5 billion in June 2018?
 
 ## Question 5: How many bits are in a gigabyte?
+8x10^9
