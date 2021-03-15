@@ -3,6 +3,7 @@
 ## Question 1: When was git created?
 
 ## Question 2: What language is GitHub written in?
+Ruby, a high-level programming language that was designed and developed in the mid 1990s in Japan
 
 ## Question 3: What does IDE stand for?
 
